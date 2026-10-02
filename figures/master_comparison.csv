@@ -1,0 +1,6 @@
+Ticker,Name,Best Model,Ann. Vol (%),Persistence,VaR 99% T (%),ES 99% T (%),t-df
+ABNB,Airbnb,"GARCH(1,1)-t",38.39,0.9943,6.387,9.137,3.71
+CCL,Carnival,"GARCH(1,1)-t",47.18,0.1441,7.803,10.584,4.53
+TSLA,Tesla,"GARCH(1,1)-t",59.85,0.9806,9.663,12.896,4.89
+KER.PA,Kering,"GARCH(1,1)-t",36.46,0.9994,6.334,8.874,3.88
+PUM.DE,Puma,GJR-GARCH-t,47.32,0.1388,8.174,13.089,2.75
